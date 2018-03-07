@@ -1,4 +1,15 @@
-I. File list
+Login: GarfieldFoundation
+Password: FelineFriend10!
+
+Language: HTML, CSS
+
+I. Goal 
+---------
+To sucessfully link three different git's to one coherent GitHub
+Inspiration: to to raise awareness for ‘feline obesity’ by encouraging people to take their cats on daily or weekly walks.
+
+
+II. File list
 ---------------
 .DS_Store	css
 about-us.html              main page with original header and css	
@@ -7,7 +18,7 @@ gallery.html               page of images, with footer source
 stylesheet.css             Page of css for all three pages
 images/                    contains images for all three pages
 
-II. Branch list
+III. Branch list
 ------------------
 
  gallery-body-content      contains main gallery files
@@ -20,7 +31,7 @@ II. Branch list
  contact-us-body-content   contact us content with forms
  
 
-II. Design
+IV. Design
 ----------
 Home page (about-us.html) was source of design for all pages. 
 Header and sidebar were added separately and linked in at the end.
