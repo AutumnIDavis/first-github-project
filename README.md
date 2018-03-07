@@ -38,3 +38,8 @@ Header and sidebar were added separately and linked in at the end.
 Branch (of the same name) contains basic css for all the pages.
 Css contains styling for <a>, <body>, <head> and <img>
 
+V. Credit
+----------
+Home Page, Main CSS, About-Us: Autumn Davis (myself)
+Sidebar, Contact Page: Sharif Campbell @Campbell1695
+Footer, Gallery: Mike Lamb @MichaelFrankLamb
